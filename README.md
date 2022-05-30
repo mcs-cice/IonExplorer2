@@ -12,19 +12,18 @@ python IonExplorer2.py –h
 ```
 To make IonExplorer2.py executable:
 
-add a shebang line with a path to the python interpreter to the top of the file
+1. Add a shebang line with a path to the python interpreter to the top of the file
 ```
 #!/home/.../bin/python
 ```
-mark the file as executable
+2. Mark the file as executable
 ```
 chmod +x IonExplorer2.py
 ```
-add a path to the directory with the program to your PATH variable. Execute the command below or add it to .bashrc or .bash_profile in your home directory.
+3. Add a path to the directory with the program to your PATH variable. Execute the command below or add it to .bashrc or .bash_profile in your home directory.
 ```
 export PATH=/path/to/IonExplorer2:$PATH
 ```
-
 # Dependencies
 To run the program, you need to have:
 -	Python3 https://www.python.org/downloads/release/python-385/
