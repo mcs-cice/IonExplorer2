@@ -31,3 +31,6 @@ To run the program, you need to have:
 -   Matplotlib https://matplotlib.org/
 -	PyCifRW  https://pypi.org/project/PyCifRW/4.4.1/
 -	Critic2 https://github.com/aoterodelaroza/critic2
+# How to cite
+1. Golov, A., Carrasco, J. Enhancing first-principles simulations of complex solid-state ion conductors using topological analysis of procrystal electron density. npj Comput Mater 8, 187 (2022). https://doi.org/10.1038/s41524-022-00877-6
+2. Zolotarev, P.N., Golov, A.A., Nekrasova, N.A., Eremin R.A. Topological analysis of procrystal electron densities as a tool for computational modeling of solid electrolytes: A case study of known and promising potassium conductors. AIP Conf. Proc. 2163, 020007 (2019). https://doi.org/10.1063/1.5130086
